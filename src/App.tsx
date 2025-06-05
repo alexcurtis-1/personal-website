@@ -4,6 +4,7 @@ import ProjectSection from './components/ProjectSection';
 import SkillsSection from './components/SkillsSection';
 import HeroSection from './components/HeroSection';
 import ContactSection from './components/ContactSection';
+import ServicesSection from './components/ServicesSection';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <AboutSection />
         <ProjectSection />
         <SkillsSection />
+        <ServicesSection />
         <ContactSection />
       </main>
     </div>
