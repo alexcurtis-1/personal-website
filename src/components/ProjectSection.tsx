@@ -7,7 +7,7 @@ import dashboard2 from '../assets/CensusETLProject.png';
 const projects = [
   {
     title: "Incident Response Exercise – Zions Bancorporation",
-    description: `Designed and managed a realistic, inject-driven incident response exercise for C-level leadership, featuring custom video injects and live scenario adaptation. The exercise was praised as innovative and engaging by executives, and it significantly improved the organization's crisis response readiness.`,
+    description: `Designed and managed a realistic, inject-driven incident response exercise for C-level leadership, featuring video injects with actual KSL channel 5 news reporters and live scenario adaptation. The The exercise was praised as innovative and engaging by executives, and it significantly improved the organization's crisis response readiness.`,
     technologies: ["Scenario Design", "Project Management", "Stakeholder Engagement"]
   },
   {
@@ -17,12 +17,12 @@ const projects = [
   },
   {
     title: "ITSM Automation & Reporting",
-    description: `Automated weekly metrics and KPI reporting for IT Change, Release, and Incident Management using Python ETL scripts. Eliminated manual reporting, improved data accuracy, and enabled timely insights for leadership—well before Power BI was available at the organization.`,
+    description: `Automated weekly metrics and daily KPI reporting for IT Change, Release, and Incident Management using Python ETL scripts. Eliminated manual effort reporting, improved data accuracy, and enabled timely insights for leadership well before Power BI was available at the organization.`,
     technologies: ["Python", "ETL", "Crystal Reports", "BMC Remedy", "Process Automation"]
   },
   {
     title: "ServiceNow ITSM Migration",
-    description: `Coordinated the migration from BMC Remedy to ServiceNow, including data migration, module rollout, and staff training. Managed a high-visibility project under federal oversight, ensuring compliance and successful adoption across all technical teams.`,
+    description: `Coordinated the migration from BMC Remedy to ServiceNow, including data migration, module rollout, and staff training. Managed a high-visibility project under federal oversight and scrutiny, ensuring compliance and successful adoption across all technical teams.`,
     technologies: ["ServiceNow", "BMC Remedy", "Data Migration", "Training"]
   },
   {
