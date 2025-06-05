@@ -74,8 +74,8 @@ const SkillsSection: React.FC = () => (
           }}
         >
           <h3 style={{ marginTop: 0, color: '#1976d2' }}>{cat.title}</h3>
-          <ul style={{ paddingLeft: '1.2em', margin: 0 }}>
-            {cat.skills.map(skill => <li key={skill}>{skill}</li>)}
+    <ul style={{ paddingLeft: '1.2em', margin: 0, color: '#111' }}>
+      {cat.skills.map(skill => <li key={skill} style={{ color: '#111' }}>{skill}</li>)}
           </ul>
         </div>
       ))}
